@@ -91,3 +91,12 @@ p{
     background-color: yellow;
 
 }
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: red;
+}
+html{
+    scroll-behavior: smooth;
+}
